@@ -1,1 +1,1 @@
-This is in the main file
+I am putting text into this file with nano
